@@ -11,15 +11,15 @@ export default {
   "navbar.avatar.signout": "Afmelden",
   // END navbar
   // /
-  "home.title": "Een <h>zelfgehost</h> platform voor het delen van bestanden.",
+  "home.title": "Een <h>Beveiligd</h> platform voor het delen van bestanden.",
   "home.description": "Wil je echt je persoonlijke bestanden geven aan derden zoals WeTransfer?",
-  "home.bullet.a.name": "Zelfgehost",
-  "home.bullet.a.description": "Host Pingvin Share op uw eigen machine.",
+  "home.bullet.a.name": "Privé",
+  "home.bullet.a.description": "Ontworpen voor bedrijven.",
   "home.bullet.b.name": "Privacy",
   "home.bullet.b.description": "Je bestanden zijn van jou en zullen nooit toegankelijk zijn voor derden.",
-  "home.bullet.c.name": "Geen vervelende limiet voor bestandsgrootte",
+  "home.bullet.c.name": "Geen vervelende limieten voor bestandsgrootte",
   "home.bullet.c.description": "Upload bestanden zo groot als je wilt. Je harde schijf is de enige limiet.",
-  "home.button.start": "Aan de slag",
+  "home.button.start": "Contacteer ons",
   "home.button.source": "Broncode",
   // END /
   // /auth/signin
