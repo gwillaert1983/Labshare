@@ -11,15 +11,26 @@ export default {
   "navbar.avatar.signout": "Afmelden",
   // END navbar
   // /
+<<<<<<< Updated upstream
   "home.title": "Een <h>Beveiligd</h> platform voor het delen van bestanden.",
   "home.description": "Wil je echt je persoonlijke bestanden geven aan derden zoals WeTransfer?",
   "home.bullet.a.name": "Privé",
   "home.bullet.a.description": "Ontworpen voor bedrijven.",
+=======
+  "home.title": "Een <h>Veilig</h> platform voor het delen van bestanden.",
+  "home.description": "Wil je echt je persoonlijke bestanden geven aan derden zoals WeTransfer?",
+  "home.bullet.a.name": "Privé",
+  "home.bullet.a.description": "Hosting voor uw bedrijf?",
+>>>>>>> Stashed changes
   "home.bullet.b.name": "Privacy",
   "home.bullet.b.description": "Je bestanden zijn van jou en zullen nooit toegankelijk zijn voor derden.",
   "home.bullet.c.name": "Geen vervelende limieten voor bestandsgrootte",
   "home.bullet.c.description": "Upload bestanden zo groot als je wilt. Je harde schijf is de enige limiet.",
+<<<<<<< Updated upstream
   "home.button.start": "Contacteer ons",
+=======
+  "home.button.start": "Interesse ?",
+>>>>>>> Stashed changes
   "home.button.source": "Broncode",
   // END /
   // /auth/signin
