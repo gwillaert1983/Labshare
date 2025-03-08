@@ -1,5 +1,9 @@
 services:
+<<<<<<< Updated upstream
   labshare:
+=======
+  pingvin-share:
+>>>>>>> Stashed changes
     image: gwillaert1983/labshare # or ghcr.io/stonith404/pingvin-share
     restart: unless-stopped
     ports:
